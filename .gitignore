@@ -1,0 +1,20 @@
+# Bỏ qua môi trường ảo
+venv/
+.venv/
+
+# Bỏ qua file hệ thống
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Bỏ qua file IDE
+.vscode/
+*.log
+*.db
+
+# Bỏ qua file OS
+.DS_Store
+Thumbs.db
+
+# Khác
+.env
