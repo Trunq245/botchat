@@ -24,11 +24,26 @@ Giao diện người dùng đơn giản, dễ sử dụng như chatbot thông th
 ![Giao diện chatbot](./giaodien.png)
 
 
-## 🚀 Hướng dẫn chạy project
 
+# Hướng dẫn chạy project
+
+## Cài đặt thư viện Python
+
+```bash
 pip install flask flask-cors requests ultralytics pillow
-python app.py
+```
 
+## Chạy backend
+
+```bash
+python app.py
+```
+
+## Chạy frontend
+
+```bash
 cd chatbot-caytrong
 npm install
 npm start
+```
+
